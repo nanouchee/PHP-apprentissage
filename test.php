@@ -15,7 +15,7 @@
 
     <h1>page test php </h1>
     <pre>
-    <?php echo "php tests";?>
+    <?php echo "php tests"; ?>
     </pre>
     </div>
 
