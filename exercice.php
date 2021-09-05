@@ -13,11 +13,12 @@
     <?php include("./partial/_navBar.php"); ?>
     <div class="container">
 
-    <h1>page exercice php </h1>
-    <h2> Les exercices en Php</h2>
     <ol>
-    <li>premier exo</li>
     </ol>
+    <h3> Exercices déja faits :</h3>
+    <li><a href="/exercice.php"> exercice 1</a></li>
+    <li><a href="/exercice2.php"> exercice 2</li>
+    <li><a href="/exercice3.php"> exercice 3</li>
 
     </div>
 

@@ -4,16 +4,15 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
+    <title>page note php </title>
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
-    <title>page note php </title>
   </head>
   <body>
     <?php include("./partial/_navBar.php"); ?>
     <div class="container">
 
-    <h1>page note php </h1>
+    <h1> Page de notes PHP </h1>
     <?php echo "php prise de notes";?>
 
     </div>

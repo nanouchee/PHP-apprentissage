@@ -24,27 +24,30 @@
       <li class="nav-item active">
         <a class="nav-link" href="/index.php">Acceuil </a>
       </li>
+     
       <li class="nav-item active">
-        <a class="nav-link" href="/contact.php"> Contact </a>
+        <a class="nav-link" href="/premierePage.php">Page 1</a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="/premierePage.php">premiere page </a>
+        <a class="nav-link" href="/test.php">Test </a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="/test.php">test </a>
+        <a class="nav-link" href="/exercices.php">exercice</a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="/exercice.php">exercice</a>
+        <a class="nav-link" href="/notes.php">Notes </a>
       </li>
-      <li class="nav-item active">
-        <a class="nav-link" href="/note.php">notes </a>
-      </li>
-      <li class="nav-item active">
-        <a class="nav-link" href="/Exercice2.php">exercice 2 </a>
-      </li>
-
+     
 
 </nav>
+<h2> Bienvenue sur mon site d'apprentissage PHP ! </h2>
+ <p> Pour me contacter :
+ <ul> Par mail ou par téléphone : </ul>
+ <li>E-mail : nadia.mokhfi@hotmail.fr</li>
+ <li>téléphone : 01 45 24 31 03 </li>
+ </p>
+ <p> Merci de votre visite et à bientot !</p>
+
 
 
       

@@ -7,7 +7,7 @@
 
   <link rel="stylesheet" href="/css/bootstrap.min.css">
 
-  <title>page test php </title>
+  <title> page test php </title>
 </head>
 
 <body>
@@ -25,7 +25,12 @@
 
 
     <?php
-    
+
+    $tab = ["1","2", "3", "4", "5"];
+
+    array_splice($tab, 2 , 1);
+    var_dump($tab);
+
     ?>
     
 
