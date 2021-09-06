@@ -54,9 +54,29 @@
     <p> Ajoutter en première position du tableau la valeur "violet"</p>
     <p> Résultat : 
     <?php
+    $startString = "bleu, vert, noir, rouge, jaune";
+    // convert the string into an array
+    $tab2=explode(" , ", $startString);
+    //insert on the beginning of a array
+    array_unshift($tab2, "violet");
     ?>
     </p>
+   <ul>
+      <li><?php echo $tab2[0]; 
+      ?></li>
+      <li><?php echo $tab2[1]; 
+      ?></li>
+      <li><?php echo $tab2[2]; 
+      ?></li>
+      <li><?php echo $tab2[3]; 
+      ?></li> 
+      <li><?php echo $tab2[4]; 
+      ?></li>
+      <li><?php echo $tab2[5]; 
+      ?></li>
 
+ </ul>
+  </p>
   <script src="/js/bootstrap.bundle.min.js"></script>
 
 </body>
