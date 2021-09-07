@@ -16,9 +16,16 @@
     <ol>
     </ol>
     <h3> Exercices déja faits :</h3>
+    <li><a href="https://github.com/nanouchee/PHP-apprentissage"> Lien "exercice" sur Github</a></li>
     <li><a href="/exercice.php"> exercice 1</a></li>
     <li><a href="/exercice2.php"> exercice 2</li>
     <li><a href="/exercice3.php"> exercice 3</li>
+    <li><a href="/exercice4.php">exercice 4</a></li>
+    <li><a href="/exercice5.php">exercice 5</a></li>
+    <li><a href="/exercice6.php">exercice 6</a></li>
+
+    
+
 
     </div>
 

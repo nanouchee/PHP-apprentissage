@@ -7,13 +7,13 @@
 
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
-    <title>Hello, world!</title>
+    <title>Mokhfi Nadia's Website </title>
   </head>
   <body>
     <?php include("./partial/_navBar.php"); ?>
     <div class="container">
 
-    <h1>Hello, world!</h1>
+    <h1> welcome to my Website ! </h1>
     </div>
 
    
